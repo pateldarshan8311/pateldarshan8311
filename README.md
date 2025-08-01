@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Darshan Patel</h1>
+<h3 align="center">Frontend Developer | React.js | WordPress | Tailwind CSS</h3>
 
-<!--
-**pateldarshan8311/pateldarshan8311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a frontend developer with 4+ years of experience building fast, scalable, and modern web applications. I specialize in:
 
-Here are some ideas to get you started:
+- ⚛️ React.js, JavaScript (ES6+), HTML5, CSS3
+- 🎨 Tailwind CSS, Framer Motion
+- 🧩 WordPress Theme/Plugin Dev, ACF, CPT, REST API
+- 🚀 SEO, Speed Optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 **Portfolio:** [darshboard.com](https://darshboard.com)  
+📫 **Contact:** pateldarshan8311@gmail.com  
+📍 Based in Surat, India
+
+Let’s connect and build something awesome together!
